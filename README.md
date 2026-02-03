@@ -13,6 +13,17 @@ Link here: [click me](https://capstonefall2025-frontend.onrender.com/)
 
 ---
 
+## My Contributions
+
+- Led frontend design and implementation, translating backend functionality into a clean, user-friendly UI using React
+- Designed layouts, page structure, and custom visual assets including profile avatars; contributed extensively to Figma designs
+- Implemented user authentication and account management on the backend, including user models, controllers, and routes, with secure password hashing (bcrypt) and JWT-based authentication
+- Integrated authenticated user data into the frontend, enabling dynamic rendering of user profiles and protected views
+- Built backend functionality for unsaving events, and connected these features to the frontend UI
+- Implemented profile page data fetching, querying and displaying user-created events and incidents from the backend
+
+---
+
 ## Features
 
 - **Real-Time Incident Reports**  
